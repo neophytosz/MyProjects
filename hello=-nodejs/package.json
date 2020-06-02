@@ -1,0 +1,9 @@
+{
+  "name": "hello--nodejs",
+  "version": "0.0.0",
+  "description": "hello=-nodejs",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
